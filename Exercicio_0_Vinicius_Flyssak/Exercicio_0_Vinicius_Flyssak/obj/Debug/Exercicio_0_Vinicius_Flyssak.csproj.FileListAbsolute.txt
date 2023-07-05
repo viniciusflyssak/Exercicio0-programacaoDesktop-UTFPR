@@ -1,0 +1,8 @@
+D:\projetos C#\Exercicio_0_Vinicius_Flyssak\Exercicio_0_Vinicius_Flyssak\obj\Debug\Exercicio_0_Vinicius_Flyssak.csproj.AssemblyReference.cache
+D:\projetos C#\Exercicio_0_Vinicius_Flyssak\Exercicio_0_Vinicius_Flyssak\obj\Debug\Exercicio_0_Vinicius_Flyssak.csproj.SuggestedBindingRedirects.cache
+D:\projetos C#\Exercicio_0_Vinicius_Flyssak\Exercicio_0_Vinicius_Flyssak\obj\Debug\Exercicio_0_Vinicius_Flyssak.csproj.CoreCompileInputs.cache
+D:\projetos C#\Exercicio_0_Vinicius_Flyssak\Exercicio_0_Vinicius_Flyssak\bin\Debug\Exercicio_0_Vinicius_Flyssak.exe.config
+D:\projetos C#\Exercicio_0_Vinicius_Flyssak\Exercicio_0_Vinicius_Flyssak\bin\Debug\Exercicio_0_Vinicius_Flyssak.exe
+D:\projetos C#\Exercicio_0_Vinicius_Flyssak\Exercicio_0_Vinicius_Flyssak\bin\Debug\Exercicio_0_Vinicius_Flyssak.pdb
+D:\projetos C#\Exercicio_0_Vinicius_Flyssak\Exercicio_0_Vinicius_Flyssak\obj\Debug\Exercicio_0_Vinicius_Flyssak.exe
+D:\projetos C#\Exercicio_0_Vinicius_Flyssak\Exercicio_0_Vinicius_Flyssak\obj\Debug\Exercicio_0_Vinicius_Flyssak.pdb
